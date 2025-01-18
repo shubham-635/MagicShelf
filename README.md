@@ -31,8 +31,8 @@ You can install the required dependencies by using `pip`. Here's a list of insta
 
 1.  Clone the repository (or download the script):
     
-        git clone <repository_url>
-        cd <repository_directory>
+        git clone [<repository_url>](https://github.com/shubham-635/MagicShelf)
+        cd MagicShelf
     
 2.  Create a virtual environment (optional but recommended):
     
